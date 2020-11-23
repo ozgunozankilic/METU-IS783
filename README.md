@@ -6,7 +6,17 @@ Term: 2020-2021 Fall
 Instructor: Assoc. Prof. Tuğba Taşkaya Temizel  
 Teaching Assistant: Özgün Ozan Kılıç
 
-Lab requirements: Basic Python knowledge and access to JupterLab
+Lab requirements: Basic Python knowledge and access to JupyterLab
+
+## Contents
+
+* Collection and storage
+    * Data Collection and Storage _(collection.ipynb)_
+* Basic text analysis
+    * Pandas Basics _(pandas.ipynb)_
+    * Basic Natural Language Processing (NLP) _(coming soon)_
+
+More will be added.
 
 ## Setup
 
@@ -36,4 +46,4 @@ If you have any issues you can search it on Google and send me an e-mail.
 * [Quick overview of Python](https://www.youtube.com/watch?v=I2wURDqiXdM)
 * [Python documentation](https://docs.python.org/3/)
 * [Pandas tutorial for tabular data manipulation](https://www.youtube.com/watch?v=e60ItwlZTKM)
-* [IS 709 - Introduction to Data Science course repository](https://github.com/eceisik/IntroductionToDataScience)
+* [IS709 - Introduction to Data Science course repository](https://github.com/eceisik/IntroductionToDataScience)
