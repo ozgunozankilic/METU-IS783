@@ -14,7 +14,7 @@ Lab requirements: Basic Python knowledge and access to JupyterLab
     * Data Collection and Storage _(collection.ipynb)_
 * Basic text analysis
     * Pandas Basics _(pandas.ipynb)_
-    * Basic Natural Language Processing (NLP) _(coming soon)_
+    * Basic Natural Language Processing (NLP) _(nlp.ipynb)_
 
 More will be added.
 
