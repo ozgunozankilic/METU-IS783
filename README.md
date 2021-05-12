@@ -16,8 +16,6 @@ Lab requirements: Basic Python knowledge and access to JupyterLab
     * Pandas Basics _(pandas.ipynb)_
     * Basic Natural Language Processing (NLP) _(nlp.ipynb)_
 
-More will be added.
-
 ## Setup
 
 We will use Python along with JupyterLab for the course tutorials and projects. JupyterLab is an interactive development environment for working on or sharing live code, text, and visualizations. It is especially popular in data science and scientific computing.
